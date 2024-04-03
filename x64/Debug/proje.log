@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Sema\Desktop\proje\Source.cpp(41,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sema\Desktop\proje\Source.cpp(169,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sema\Desktop\proje\Source.cpp(279,43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sema\Desktop\proje\Source.cpp(487,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  proje.vcxproj -> C:\Users\Sema\Desktop\proje\x64\Debug\proje.exe
